@@ -1,5 +1,7 @@
 # Junaid Khan — Portfolio Site
 
+https://junedkhan20.github.io/junaidkhan.github.io/#top
+
 Single-page portfolio for Junaid Khan (AI Engineer/ Frontend Engineer / Full-Stack Developer)
 
 ## What's inside
@@ -17,24 +19,6 @@ Single-page portfolio for Junaid Khan (AI Engineer/ Frontend Engineer / Full-Sta
 - Phosphor Icons
 - No build step needed — open index.html directly
 - Resume: resume.pdf included
-
-## Setup / Run
-No build step required. Just open the file:
-
-```bash
-# Direct open
-open index.html       # macOS
-start index.html      # Windows
-
-
-## Deploy
-Upload `index.html` + `resume.pdf` to any static host:
-- Vercel: `vercel --prod`
-- Netlify: drag-and-drop
-- GitHub Pages: push to repo, serve root
-- Own domain / S3 / Cloudflare Pages
-
-## Resume
 - Source: resume.pdf (from Google Drive link in request)
 - LinkedIn: https://www.linkedin.com/in/junaidkhanofficial/
 - GitHub: https://github.com/Junedkhan20 (22 repos listed)
