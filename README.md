@@ -18,7 +18,7 @@ Single-page portfolio for Junaid Khan (AI Engineer/ Frontend Engineer / Full-Sta
 - Google Fonts (Inter + Space Grotesk)
 - Phosphor Icons
 - No build step needed — open index.html directly
-- Resume: resume.pdf included
-- Source: resume.pdf (from Google Drive link in request)
+- Resume: JunaidKhan_v5.pdf included
+- Source: JunaidKhan_v5.pdf (from Google Drive link in request)
 - LinkedIn: https://www.linkedin.com/in/junaidkhanofficial/
 - GitHub: https://github.com/Junedkhan20 (22 repos listed)
